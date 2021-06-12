@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>Tran Phu &#8211; My WordPress</title>
+	<title>Tran Phu</title>
 	<atom:link href="http://localhost/myproject/wordpress/author/phu1/feed/" rel="self" type="application/rss+xml" />
 	<link>http://https://phutran1601.github.io/mywordpress</link>
-	<description>Just another WordPress site</description>
+	<description></description>
 	<lastBuildDate>Sun, 30 May 2021 05:56:28 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
